@@ -1,0 +1,3 @@
+0 High Light
+1 Middle Light
+2 Low Light
