@@ -1,0 +1,5 @@
+0 Food
+1 Human
+2 Pet
+3 Flower
+4 Nature
